@@ -13,9 +13,9 @@
                 <div class="col-md-8 col-lg-6 col-xl-5">
                     <div class="text-center mb-4">
                         <a href="{{ url('/') }}" class="auth-logo mb-5 d-block">
-                            <img src="{{ URL::asset('assets/images/LogoMarmos.png') }}" alt="" height="30"
+                            <img src="{{ URL::asset('assets/images/LogoMarmos.png') }}" alt="" height="80"
                                 class="logo logo-dark">
-                            <img src="{{ URL::asset('assets/images/LogoMarmos.pngg') }}" alt="" height="30"
+                            <img src="{{ URL::asset('assets/images/LogoMarmos.pngg') }}" alt="" height="80"
                                 class="logo logo-light">
                         </a>
 
